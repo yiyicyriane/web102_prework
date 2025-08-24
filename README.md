@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![Walkthrough](assets/walkthrough.mp4)
+![Walkthrough](assets/walkthrough.gif)
 
 ## Notes
 
